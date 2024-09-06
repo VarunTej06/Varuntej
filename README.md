@@ -72,16 +72,29 @@
 
 ### :fire: My Stats :
 
-<!-- Trophy Stats -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=VarunTej06&theme=onedark)](https://github.com/VarunTej06/github-profile-trophy)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=default)
 
 <!-- GitHub Stats -->
-![Varun Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=radical)
+![Varun Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=default)
 
 <!-- GitHub Streak -->
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=light&background=ffffff)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=vision-friendly-dark)
-
-
+<!-- Container to hold all three stats in a single horizontal line -->
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=default" alt="Varun Tej's GitHub stats" style="width: 100%; max-width: 320px; height: auto;" />
+  </a>
+  
+  <!-- GitHub Streak -->
+  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=light&background=ffffff" alt="GitHub Streak" style="width: 100%; max-width: 320px; height: auto;" />
+  </a>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=default" alt="Top Languages" style="width: 100%; max-width: 320px; height: auto;" />
+  </a>
+</div>
