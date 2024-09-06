@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yadla Sai Varun Teja</h1>
-<h3 align="center">I am a DevOps and QA Engineer with 3 years of experience.</h3>
+<h3 align="center">Devops Engineer | QA Engineer</h3>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VarunTej06&label=Profile%20views&color=0e75b6&style=flat" alt="VarunTej06" /> </p>
