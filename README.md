@@ -72,30 +72,23 @@
 
 ### :fire: My Stats :
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=default)
 
-<!-- GitHub Stats -->
-![Varun Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=default)
+<!-- GitHub Stats, GitHub Streak, and Top Languages displayed in a single horizontal line with uniform size -->
 
-<!-- GitHub Streak -->
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=light&background=ffffff)
-
-<!-- Container to hold all three stats in a single horizontal line -->
-<!-- Container to hold all three stats in a single horizontal line -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
   <!-- GitHub Stats -->
   <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=default" alt="Varun Tej's GitHub stats" style="width: 30%; max-width: 250px; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=default" alt="Varun Tej's GitHub stats" style="width: 40%; max-width: 200px; height: 200px;" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=default" alt="Top Languages" style="width: 30%; max-width: 250px; height: 200px;" />
   </a>
   
   <!-- GitHub Streak -->
   <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=light&background=ffffff" alt="GitHub Streak" style="width: 30%; max-width: 250px; height: auto;" />
-  </a>
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=default" alt="Top Languages" style="width: 30%; max-width: 250px; height: auto;" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=light&background=ffffff" alt="GitHub Streak" style="width: 40%; max-width: 200px; height: 200px;" />
   </a>
 </div>
+
