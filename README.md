@@ -81,3 +81,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varuntej06&show_icons=true&locale=en&layout=compact" alt="varuntej06" style="max-width: 100%;" />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VarunTej06&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### My GitHub Contributions
+![Snake animation](https://github.com/VarunTej06/VarunTej06/blob/output/github-contribution-grid-snake.svg)
+
+
