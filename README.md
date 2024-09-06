@@ -7,7 +7,8 @@
 ---
 
 ### :man_technologist: About Me :
-<h3 align="justify">Having 3 years of experience as a seasoned DevOps Engineer with a robust background in both Functional and Automation Testing, I bring a unique blend of expertise in software development, infrastructure management, and quality assurance. My career journey spans hands-on experience with both DevOps and QA roles, where I have excelled in leveraging cutting-edge technologies to drive efficiency and innovation.</h3>
+
+<p align="justify">Having 3 years of experience as a seasoned DevOps Engineer with a robust background in both Functional and Automation Testing, I bring a unique blend of expertise in software development, infrastructure management, and quality assurance. My career journey spans hands-on experience with both DevOps and QA roles, where I have excelled in leveraging cutting-edge technologies to drive efficiency and innovation.</p>
 
 - 💻 Check my Projects and other Repos [HERE](https://github.com/VarunTej06?tab=repositories)
 
