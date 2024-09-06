@@ -3,7 +3,7 @@
 - Refer to this Blog for Generating the Snake Gif which eats the Commits we did in our account.
 https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 
 - Youtube references: 
-https://www.youtube.com/watch?v=7FHiew0_NLQ
+https://www.youtube.com/watch?v=7FHiew0_NLQ | 
 https://www.youtube.com/watch?v=pkY18HTfeL8
 
 # Steps:
