@@ -72,23 +72,12 @@
 
 ### :fire: My Stats :
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=varuntej06&show_icons=true&locale=en" alt="varuntej06" style="flex: 1; max-width: 45%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntej06&" alt="varuntej06" style="flex: 1; max-width: 45%;" />
+</div>
 
-<!-- GitHub Stats, GitHub Streak, and Top Languages displayed in a single horizontal line with uniform size -->
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VarunTej06&show_icons=true&theme=default" alt="Varun Tej's GitHub stats" style="width: 40%; max-width: 200px; height: 200px;" />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunTej06&layout=compact&theme=default" alt="Top Languages" style="width: 30%; max-width: 250px; height: 200px;" />
-  </a>
-  
-  <!-- GitHub Streak -->
-  <a href="https://github.com/VarunTej06" style="flex: 1; text-align: center;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=VarunTej06&theme=light&background=ffffff" alt="GitHub Streak" style="width: 40%; max-width: 200px; height: 200px;" />
-  </a>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varuntej06&show_icons=true&locale=en&layout=compact" alt="varuntej06" style="max-width: 100%;" />
 </div>
 
