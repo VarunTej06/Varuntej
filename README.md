@@ -1,29 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yadla Sai Varun Teja</h1>
 <h3 align="center">I am a DevOps and QA Engineer with 3 years of experience.</h3>
 </h1>
-<div align="center">
-<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" alt="Computer man" width="600" height="300"/>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VarunTej06&label=Profile%20views&color=0e75b6&style=flat" alt="VarunTej06" /> </p>
 
 ---
 
 ### :man_technologist: About Me :
+<h3 align="justify">Having 3 years of experience at Infosys, as a seasoned DevOps Engineer with a robust background in both Functional and Automation Testing, I bring a unique blend of expertise in software development, infrastructure management, and quality assurance. My career journey spans hands-on experience with both DevOps and QA roles, where I have excelled in leveraging cutting-edge technologies to drive efficiency and innovation.</h3>
 
-- 🌱 I’m currently learning **Amazon Web Services in detail....**
+- 💻 Check my Projects and other Repos [HERE](https://github.com/VarunTej06?tab=repositories)
 
-- 💬 Ask me about **Devops, Functional and Automation testing**
-  
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/VarunTej06?tab=repositories)
 
-- 📫 How to reach me **yvaruntej0612@gmail.com**
-
-- ⚡ Fun fact **I am very much interested in Devops, Cloud and Generative AI**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/saivarunteja_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
