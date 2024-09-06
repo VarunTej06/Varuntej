@@ -73,8 +73,8 @@
 ### :fire: My Stats :
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=varuntej06&show_icons=true&locale=en" alt="varuntej06" style="flex: 1; max-width: 40%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntej06&" alt="varuntej06" style="flex: 1; max-width: 40%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varuntej06&show_icons=true&locale=en" alt="varuntej06" style="flex: 1; max-width: 45%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntej06&" alt="varuntej06" style="flex: 1; max-width: 45%;" />
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
