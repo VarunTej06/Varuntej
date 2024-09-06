@@ -84,8 +84,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VarunTej06&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### My GitHub Contributions
-![Snake animation](https://github.com/VarunTej06/VarunTej06/blob/output/github-contribution-grid-snake.svg)
+<!--
+## This section is commented out
+This text will not be displayed in the rendered README.md file.
 
+ ### My GitHub Contributions
+ ![Snake animation](https://github.com/VarunTej06/VarunTej06/blob/output/github-contribution-grid-snake.svg)
+ 
+-->
 
 
