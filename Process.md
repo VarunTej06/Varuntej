@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=pkY18HTfeL8
   **Note1:** Since you are using GitHub token you need to pass PAT in the repo secrets. ( Generate PAT and then go to Repo Setting --> Secrets and Variables --> Actions --> Add PAT)
             Then Repo Setting --> Actions --> General --> Workflow permissions --> Enable read and write permissions
             Then Repo Settings --> Pages --> Build and Deployment --> Branch --> Output --> Save. You can change this later.
+  
    **Note2:** This GitHub Pages will publish a site based on the branch you are selecting. Since our Readme page is in Main,
               and you gave branch as main then a site will be published in 2 mins.
 
